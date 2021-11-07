@@ -1,0 +1,28 @@
+{
+    "name": "hexo-renderer-sass",
+    "version": "0.0.1",
+    "description": "Sass renderer plugin for Hexo.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PFiS1737/hexo-renderer-sass"
+    },
+    "keywords": [
+        "hexo",
+        "sass",
+        "scss",
+        "renderer"
+    ],
+    "author": "PFiS1737",
+    "readme": "https://github.com/PFiS1737/hexo-renderer-sass#readme",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/PFiS1737/hexo-renderer-sass/issues"
+    },
+    "homepage": "https://github.com/PFiS1737/hexo-renderer-sass",
+    "dependencies": {
+        "color-rgba": "2.3.0",
+        "node-sass-magic-importer": "5.3.2",
+        "sass": "1.43.4"
+    }
+}
